@@ -17,7 +17,7 @@ with col1:
 with col2:
     st.markdown("""
         <div style='text-align: center;'>
-            <h1 style='font-family: Arial, sans-serif; color: #2c3e50;'>Ofi European Union Law</h1>
+            <h1 style='font-family: Arial, sans-serif; color: #2c3e50;'>Ofi European Union Law Assistant</h1>
         </div>
     """, unsafe_allow_html=True)
 
